@@ -11,5 +11,29 @@
         "maximumScreenSpaceError": 16
       }
     }
-  ]
+  ],
+  "homeCamera": {
+    "north": -33.87365,
+    "east": 151.20689,
+    "south": -33.87465,
+    "west": 151.20589
+  },
+  "initialCamera": {
+    "north": -33.87365,
+    "east": 151.20689,
+    "south": -33.87465,
+    "west": 151.20589
+  },
+  "baseMaps": {
+    "defaultBaseMapId": "basemap-0",
+    "items": [
+      {
+        "name": "Natural Earth II",
+        "type": "wms",
+        "url": "https://tiles.maps.eox.at/wms",
+        "layers": "terrain-light",
+        "opacity": 1.0
+      }
+    ]
+  }
 }
