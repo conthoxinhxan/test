@@ -1,0 +1,15 @@
+{
+  "catalog": [
+    {
+      "name": "Test Model",
+      "type": "3d-tiles",
+      "url": "https://github.com/conthoxinhxan/test/blob/main/test3DModel.glb",
+      "description": "A 3D model example with binary data",
+      "layerName": "example_3d_model",
+      "parameters": {
+        "shadows": true,
+        "maximumScreenSpaceError": 16
+      }
+    }
+  ]
+}
